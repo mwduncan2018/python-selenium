@@ -1,0 +1,2 @@
+This is a text document for testing that validations fire correctly 
+when uploading an image on the PHP Social Network, Mike-Book.
