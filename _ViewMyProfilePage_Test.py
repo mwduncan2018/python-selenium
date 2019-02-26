@@ -16,7 +16,7 @@ class TestViewMyProfilePage(unittest.TestCase):
         inst.driver.maximize_window()
         # create test users
         inst.gorilla = MikeBookUser("TestGorilla",
-                               "GorillaLovin",
+                               "Gorilla",
                                "testTwentySix",
                                "testTwentySix",
                                "I'm a test gorilla.",

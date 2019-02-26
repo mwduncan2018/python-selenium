@@ -17,7 +17,7 @@ class TestLoginPage(unittest.TestCase):
         inst.driver.get("http://localhost/socialnetwork/login.php/")
         # create test users
         inst.gorilla = MikeBookUser("TestGorilla",
-                               "GorillaLovin",
+                               "Gorilla",
                                "testTwentySix",
                                "testTwentySix",
                                "I'm a test gorilla.",

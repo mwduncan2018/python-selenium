@@ -16,7 +16,7 @@ class TestAddPostPage(unittest.TestCase):
         inst.driver.maximize_window()
         # create test users
         inst.gorilla = MikeBookUser("TestGorilla",
-                                    "GorillaLovin",
+                                    "Gorilla",
                                     "testThirtyFive",
                                     "testThirtyFive",
                                     "I'm a test gorilla.",

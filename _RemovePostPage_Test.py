@@ -16,7 +16,7 @@ class TestRemovePostPage(unittest.TestCase):
         inst.driver.maximize_window()
         # create test user
         inst.gorilla = MikeBookUser("TestGorilla",
-                               "GorillaLovin",
+                               "Gorilla",
                                "testTwentySix",
                                "testTwentySix",
                                "I'm a test gorilla.",
